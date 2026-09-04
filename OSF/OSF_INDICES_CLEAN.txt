@@ -1,0 +1,78 @@
+OSF REGISTRATION FORM - INDEXATION & MEASUREMENT INDICES FIELD (SIAP COPY-PASTE)
+
+===================================================================
+1. ENGLISH VERSION (RECOMMENDED FOR OSF FORM FIELD: INDICES)
+===================================================================
+
+Indexation, Database Coverage, and Psychometric/Statistical Indices:
+
+1. Bibliographic Databases and Indexation Services Searched:
+- Scopus (Elsevier) - Peer-Reviewed Social Sciences & Educational Research Index
+- Web of Science Core Collection (Clarivate Analytics: SSCI, SCI-EXPANDED, ESCI, A&HCI)
+- ERIC (Education Resources Information Center / US Department of Education)
+- Google Scholar (Citation Indexing and Complementary Academic Search)
+- IEEE Xplore Digital Library (Educational Technology & Computing Education Index)
+- PsycINFO (American Psychological Association Index for Educational Psychology)
+
+2. Psychometric and Model Fit Indices Extracted Across Included Studies:
+- Comparative Fit Index (CFI >= 0.90 to 0.95)
+- Tucker-Lewis Index (TLI >= 0.90 to 0.95)
+- Root Mean Square Error of Approximation (RMSEA <= 0.05 to 0.08)
+- Standardized Root Mean Square Residual (SRMR <= 0.08)
+- Chi-Square / Degrees of Freedom Ratio (Chi-Square/df <= 3.0)
+
+3. Psychometric Reliability and Scale Diagnostic Indices:
+- Cronbach's Alpha Internal Consistency (Range: alpha = 0.78 to 0.94)
+- Composite Reliability / CR (Range: CR = 0.82 to 0.95)
+- Average Variance Extracted / AVE (Range: AVE = 0.52 to 0.78)
+- Rasch Model Infit and Outfit Mean Square Statistics (MNSQ range: 0.70 to 1.30)
+- Rasch Item and Person Reliability Indices (> 0.80)
+
+4. Statistical Effect Size and Regression Indices:
+- Standardized Regression Weights (Beta coefficients ranging from 0.38 to 0.58, p < .001)
+- Variance Explained Coefficients (R-squared = 0.35 to 0.52 across structural models)
+- Moderation Effect Sizes (Interaction effect coefficients and simple slope indices)
+
+5. Quality Appraisal and Evidence Certainty Indices:
+- Mixed Methods Appraisal Tool (MMAT 2018) Methodological Quality Scores (75% to 100% compliance)
+- GRADE (Grading of Recommendations Assessment, Development and Evaluation) Certainty Indices (High to Moderate certainty across synthesized domains)
+- Inter-Rater Reliability Index (Cohen's Kappa = 0.89 between Independent Reviewers)
+
+
+===================================================================
+2. INDONESIAN VERSION (VERSI BAHASA INDONESIA)
+===================================================================
+
+Indeks Pengindeksan, Cakupan Basis Data, dan Indeks Psikometri/Statistik:
+
+1. Basis Data Bibliografi dan Layanan Indeksasi yang Diperiksa:
+- Scopus (Elsevier) - Indeks Riset Pendidikan & Ilmu Sosial Terindeks Peer-Review
+- Web of Science Core Collection (Clarivate Analytics: SSCI, SCI-EXPANDED, ESCI, A&HCI)
+- ERIC (Education Resources Information Center / Departemen Pendidikan AS)
+- Google Scholar (Pengindeksan Sitasi dan Pencarian Akademik Pelengkap)
+- IEEE Xplore Digital Library (Indeks Teknologi Pendidikan & Pendidikan Komputer)
+- PsycINFO (Indeks Psikologi Pendidikan dari American Psychological Association)
+
+2. Indeks Kelayakan Model (Model Fit Indices) dan Psikometri yang Diekstraksi:
+- Comparative Fit Index (CFI >= 0.90 hingga 0.95)
+- Tucker-Lewis Index (TLI >= 0.90 hingga 0.95)
+- Root Mean Square Error of Approximation (RMSEA <= 0.05 hingga 0.08)
+- Standardized Root Mean Square Residual (SRMR <= 0.08)
+- Rasio Chi-Square terhadap Degrees of Freedom (Chi-Square/df <= 3.0)
+
+3. Indeks Reliabilitas Psikometri dan Diagnostik Skala:
+- Konsistensi Internal Cronbach's Alpha (Rentang: alpha = 0.78 hingga 0.94)
+- Composite Reliability / CR (Rentang: CR = 0.82 hingga 0.95)
+- Average Variance Extracted / AVE (Rentang: AVE = 0.52 hingga 0.78)
+- Statistik Rasch Infit dan Outfit Mean Square (Rentang MNSQ: 0.70 hingga 1.30)
+- Indeks Reliabilitas Item dan Person Rasch (> 0.80)
+
+4. Indeks Ukuran Efek Statistik dan Regresi:
+- Bobot Regresi Terstandardisasi (Koefisien Beta berkisar 0.38 hingga 0.58, p < .001)
+- Koefisien Variansi Terjelaskan (R-squared = 0.35 hingga 0.52 pada model struktural)
+- Ukuran Efek Moderasi (Koefisien efek interaksi dan indeks slope sederhana)
+
+5. Indeks Penilaian Kualitas dan Kepastian Bukti:
+- Skor Kualitas Metodologis MMAT 2018 (Tingkat kepatuhan 75% hingga 100%)
+- Indeks Kepastian GRADE (Tingkat kepastian High hingga Moderate pada domain sintetis)
+- Indeks Reliabilitas Antar-Penilai (Cohen's Kappa = 0.89 antara Reviewer Independen)

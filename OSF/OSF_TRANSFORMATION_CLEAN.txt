@@ -1,0 +1,52 @@
+OSF REGISTRATION FORM - DATA TRANSFORMATIONS FIELD (SIAP COPY-PASTE)
+
+===================================================================
+1. ENGLISH VERSION (RECOMMENDED FOR OSF FORM FIELD: TRANSFORMATIONS)
+===================================================================
+
+Data Transformation, Standardization, and Recoding Strategy:
+
+1. Scale Standardization and Metric Normalization:
+To allow valid comparative synthesis across heterogeneous measurement tools:
+- Likert Scale Normalization: Extracted mean scores from primary studies using disparate Likert scale ranges (e.g., 4-point, 5-point, 6-point, or 7-point Likert scales) will be transformed into standardized Percentage of Maximum Possible (POMP) scores ranging from 0% to 100%.
+- Formula applied: POMP Score = ((Extracted Mean - Minimum Scale Score) / (Maximum Scale Score - Minimum Scale Score)) * 100.
+- Regression Weight Standardization: Path coefficients and regression weights from structural equation models (SEM) will be extracted as standardized beta values (Beta) to ensure comparability across different measurement models.
+
+2. Qualitative Code Harmonization and Conceptual Recoding:
+- Primary qualitative codes, sub-themes, and observational rubric categories will be recoded into standardized competency domains based on the European Digital Competence Framework for Educators (DigCompEdu: 6 areas, 22 competencies) and UNESCO AI Competency Framework for Teachers.
+- Discrepancies in terminology across international study contexts (e.g., "digital literacy", "TPACK", "PDC", "AI readiness") will be harmonized into core construct definitions established in the protocol.
+
+3. Handling Non-Parametric Metrics and Summary Statistic Conversions:
+- Where primary studies report median and interquartile range (IQR) instead of mean and standard deviation (SD), data will be converted to estimated mean and SD using Hozo et al. (2005) and Wan et al. (2014) transformation algorithms.
+- Dichotomous or categorical performance outcomes from Situational Judgment Tests (SJTs) and rubrics (e.g., Competent vs Not Competent) will be converted into proportion metrics and risk/odds ratios for subgroup comparison.
+
+4. Missing Data and Selection Recoding Protocol:
+- Missing numerical data or incomplete sub-scale reporting will be flagged during extraction.
+- Corresponding authors of primary studies will be contacted via email to request missing quantitative values (e.g., item SDs, correlation matrices).
+- Imputation of fictitious values will strictly NOT be performed; incomplete studies with unretrievable core metrics will be analyzed qualitatively and reported transparently in the sensitivity analysis.
+
+
+===================================================================
+2. INDONESIAN VERSION (VERSI BAHASA INDONESIA)
+===================================================================
+
+Strategi Transformasi Data, Standardisasi, dan Pengodean Ulang:
+
+1. Standardisasi Skala dan Normalisasi Metrik:
+Untuk memungkinkan sintesis komparatif yang valid antar alat ukur yang heterogen:
+- Normalisasi Skala Likert: Skor rata-rata terestrak dari studi utama yang menggunakan rentang skala Likert berbeda (misalnya skala 4, 5, 6, atau 7 poin) akan ditransformasikan menjadi skor terstandardisasi Percentage of Maximum Possible (POMP) dengan rentang 0% hingga 100%.
+- Formula yang diterapkan: Skor POMP = ((Rata-rata Terekstrak - Skor Skala Minimum) / (Skor Skala Maksimum - Skor Skala Minimum)) * 100.
+- Standardisasi Bobot Regresi: Koefisien jalur dan bobot regresi dari Model Persamaan Struktural (SEM) akan diekstraksi sebagai nilai beta terstandardisasi (Beta) untuk menjamin komparabilitas antar model pengukuran yang berbeda.
+
+2. Harmonisasi Kode Kualitatif dan Pengodean Ulang Konseptual:
+- Kode kualitatif utama, sub-tema, dan kategori rubrik observasi akan dikodekan ulang ke dalam domain kompetensi terstandardisasi berbasis European Digital Competence Framework for Educators (DigCompEdu: 6 area, 22 kompetensi) dan UNESCO AI Competency Framework for Teachers.
+- Perbedaan terminologi antar konteks studi internasional (seperti "digital literacy", "TPACK", "PDC", "AI readiness") akan diharmonisasi ke dalam definisi konstruk inti yang ditetapkan dalam protokol.
+
+3. Penanganan Metrik Non-Parametrik dan Konversi Statistik Ringkasan:
+- Apabila studi utama melaporkan median dan interquartile range (IQR) sebagai pengganti mean dan standar deviasi (SD), data akan dikonversi menjadi estimasi mean dan SD menggunakan algoritma transformasi Hozo et al. (2005) dan Wan et al. (2014).
+- Outcome kinerja dikotomi atau kategorikal dari Situational Judgment Test (SJT) dan rubrik (misalnya Kompeten vs Belum Kompeten) akan dikonversi menjadi metrik proporsi dan rasio odds untuk perbandingan sub-kelompok.
+
+4. Protokol Data Hilang dan Pengodean Ulang Seleksi:
+- Data numerik yang hilang atau pelaporan sub-skala yang tidak lengkap akan ditandai saat ekstraksi.
+- Penulis korespondensi studi utama akan dihubungi melalui email untuk meminta nilai kuantitatif yang hilang (seperti SD item, matriks korelasi).
+- Imputasi nilai fiktif secara tegas TIDAK akan dilakukan; studi tidak lengkap yang metrik intinya tidak dapat diperoleh kembali akan dianalisis secara kualitatif dan dilaporkan secara transparan dalam analisis sensitivitas.

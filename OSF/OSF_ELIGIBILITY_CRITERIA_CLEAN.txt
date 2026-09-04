@@ -1,0 +1,54 @@
+OSF REGISTRATION FORM - DATA INCLUSION AND EXCLUSION CRITERIA FIELD (SIAP COPY-PASTE)
+
+===================================================================
+1. ENGLISH VERSION (RECOMMENDED FOR OSF FORM FIELD: DATA INCLUSION AND EXCLUSION)
+===================================================================
+
+Data Inclusion and Exclusion Criteria (PICO / SPIDER Framework):
+
+1. Inclusion Criteria:
+Studies must satisfy all of the following explicit eligibility criteria to be included in the review:
+
+- Population / Target Group: Pre-service primary / elementary school teachers enrolled in Bachelor of Primary Education programs (LPTK PGSD candidates or equivalent primary teacher education tracks).
+- Intervention / Construct Focus: Empirical investigation of Pedagogical Digital Competence (PDC), ICT integration readiness, AI literacy, or generative AI adoption (e.g., LLMs, ChatGPT, Copilot) in primary subject teaching contexts.
+- Comparison / Context: Primary school subject teaching (mathematics, science, literacy, social studies, art) during university coursework or school-based teaching practicums (PPL / clinical practice).
+- Outcome Measures: Quantitative, qualitative, or performative measures of PDC levels, AI prompt engineering skills, child data privacy ethics awareness, technology self-efficacy, or instructional decision quality.
+- Study Design: Peer-reviewed empirical research articles employing quantitative (survey, SEM, quasi-experimental), qualitative (case study, phenomenology), or mixed-methods designs.
+- Publication Window: Published between 1 January 2016 and 15 June 2026.
+- Language: Published in full-text English or Indonesian.
+
+2. Exclusion Criteria:
+Studies exhibiting any of the following characteristics will be excluded:
+
+- Non-Target Populations: In-service teachers, secondary/high school teachers, higher education faculty, early childhood educators (PAUD), or non-education undergraduate students.
+- Non-Empirical Publications: Conceptual papers, literature review articles, editorials, opinion commentaries, book reviews, policy briefs, or conference abstracts without peer-reviewed full texts.
+- Non-Pedagogical Focus: Studies focusing solely on generic computer science skills, hardware engineering, basic computer literacy, or administrative software usage without primary pedagogical integration.
+- Lack of Accessible Full Text: Studies where full-text articles remain unretrievable after author contact and inter-library loan requests.
+- Duplicate / Retracted Publications: Duplicate reporting of identical sample datasets or retracted articles.
+
+
+===================================================================
+2. INDONESIAN VERSION (VERSI BAHASA INDONESIA)
+===================================================================
+
+Kriteria Inklusi dan Eksklusi Data (Kerangka PICO / SPIDER):
+
+1. Kriteria Inklusi:
+Studi harus memenuhi seluruh kriteria kelayakan eksplisit berikut untuk diinklusi dalam review:
+
+- Populasi / Kelompok Sasaran: Calon guru sekolah dasar (PGSD) yang terdaftar pada program sarjana pendidikan guru SD di LPTK atau jalur pendidikan guru SD yang setara.
+- Intervensi / Fokus Konstruk: Investigasi empiris mengenai Kompetensi Digital Pedagogis (PDC), kesiapan integrasi TIK, literasi AI, atau adopsi generative AI (seperti LLM, ChatGPT, Copilot) dalam konteks pembelajaran tematik SD.
+- Komparasi / Konteks: Pembelajaran mata pelajaran sekolah dasar (matematika, IPA, bahasa, IPS, seni) selama perkuliahan di LPTK atau praktik pengalaman lapangan (PPL / magang mengajar di SD).
+- Ukuran Outcome: Metrik kuantitatif, kualitatif, atau performatif dari tingkat PDC, keterampilan prompt engineering AI, kesadaran etika privasi data anak, self-efficacy teknologi, atau kualitas keputusan instruksional.
+- Desain Studi: Artikel riset empiris terindeks peer-review yang menggunakan desain kuantitatif (survei, SEM, kuasi-eksperimen), kualitatif (studi kasus, fenomenologi), atau metode campuran.
+- Jendela Publikasi: Diterbitkan antara 1 Januari 2016 hingga 15 Juni 2026.
+- Bahasa: Diterbitkan dalam teks lengkap bahasa Inggris atau bahasa Indonesia.
+
+2. Kriteria Eksklusi:
+Studi yang memiliki salah satu karakteristik berikut akan dieksklusi:
+
+- Populasi Non-Sasaran: Guru dalam jabatan (in-service teachers), guru SMP/SMA, dosen perguruan tinggi, pendidik PAUD, atau mahasiswa non-kependidikan.
+- Publikasi Non-Empiris: Makalah konseptual, artikel tinjauan pustaka, editorial, opini, resensi buku, ringkasan kebijakan, atau abstrak konferensi tanpa teks lengkap terulas rekan sejawat.
+- Fokus Non-Pedagogis: Studi yang hanya berfokus pada keterampilan ilmu komputer generik, teknik perangkat keras, literasi komputer dasar, atau penggunaan perangkat lunak administratif tanpa integrasi pedagogis SD.
+- Teks Lengkap Tidak Tersedia: Studi yang teks lengkapnya tidak dapat diperoleh kembali setelah menghubungi penulis dan layanan peminjaman antar-perpustakaan.
+- Publikasi Duplikat / Diretraksi: Pelaporan ganda dari himpunan data sampel yang identik atau artikel yang telah diretraksi.

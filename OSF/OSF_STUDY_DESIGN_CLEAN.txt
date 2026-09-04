@@ -1,0 +1,58 @@
+OSF REGISTRATION FORM - STUDY DESIGN FIELD (SIAP COPY-PASTE)
+
+===================================================================
+1. ENGLISH VERSION (RECOMMENDED FOR OSF FORM FIELD: STUDY DESIGN)
+===================================================================
+
+Study Design:
+Systematic Literature Review (SLR) and Thematic Evidence Synthesis
+
+Framework and Protocol Compliance:
+PRISMA 2020 Statement (Preferred Reporting Items for Systematic Reviews and Meta-Analyses 2020)
+
+Study Design Description:
+This study employs a systematic literature review design incorporating quantitative, qualitative, mixed-methods, and psychometric scale validation evidence. The design adheres strictly to the PRISMA 2020 Statement and PRISMA-ScR guidelines for evidence mapping.
+
+Search Strategy and Scope:
+A comprehensive cross-database literature search was conducted simultaneously across four international databases: Scopus (Elsevier), Web of Science Core Collection (Clarivate), ERIC (EBSCOhost), and Google Scholar. The last search execution date was 15 June 2026, spanning publications from 2016 to 2026.
+
+Study Selection and Inclusion:
+From an initial yield of 350 records (Scopus: 145, WoS: 110, ERIC: 40, Google Scholar: 55), 110 duplicates were removed. Title and abstract screening of 240 unique records excluded 165 irrelevant items. Full-text eligibility assessment of 75 articles excluded 38 studies based on explicit criteria (non-primary teacher population: 18, lacking psychometric validity: 12, non-empirical: 8). The final synthesis included 20 core empirical studies and 17 supporting synthesis studies (Total N = 37 studies).
+
+Data Extraction and Inter-Rater Reliability:
+Data extraction was executed independently by two reviewers using a standardized 11-category matrix. Inter-rater reliability evaluated via Cohen's Kappa yielded kappa = 0.89 (High Agreement).
+
+Quality Appraisal and Evidence Certainty:
+Methodological quality and risk of bias were evaluated using the Mixed Methods Appraisal Tool (MMAT 2018) for primary empirical studies and the Joanna Briggs Institute (JBI) Critical Appraisal Checklist for scoping reviews. Certainty of evidence across research questions was assessed using an adapted GRADE framework.
+
+Synthesis Methods:
+Due to primary instrument heterogeneity, narrative thematic synthesis, sub-group sensitivity analysis (comparing performative Rasch PCM studies vs self-report Likert surveys), and Egger's regression proxy publication bias testing were conducted.
+
+
+===================================================================
+2. INDONESIAN VERSION (VERSI BAHASA INDONESIA)
+===================================================================
+
+Desain Penelitian:
+Tinjauan Literatur Sistematis (Systematic Literature Review - SLR) dan Sintesis Bukti Tematik
+
+Kepatuhan Standar Protokol:
+PRISMA 2020 Statement (Preferred Reporting Items for Systematic Reviews and Meta-Analyses 2020)
+
+Deskripsi Desain Penelitian:
+Penelitian ini menggunakan desain tinjauan literatur sistematis (SLR) yang menggabungkan bukti kuantitatif, kualitatif, mixed-methods, dan studi validasi skala psikometri. Desain penelitian ini mematuhi secara ketat pedoman PRISMA 2020 dan PRISMA-ScR untuk pemetaan bukti ilmiah.
+
+Strategi dan Cakupan Pencarian:
+Penelusuran literatur lintas basis data dilakukan secara serentak pada empat basis data internasional utama: Scopus (Elsevier), Web of Science Core Collection (Clarivate), ERIC (EBSCOhost), dan Google Scholar. Tanggal eksekusi pencarian terakhir adalah 15 Juni 2026, mencakup publikasi tahun 2016 hingga 2026.
+
+Seleksi dan Inklusi Studi:
+Dari total hasil awal 350 rekaman (Scopus: 145, WoS: 110, ERIC: 40, Google Scholar: 55), sebanyak 110 duplikat dibersihkan. Skrining judul dan abstrak terhadap 240 rekaman unik mengeksklusi 165 artikel tidak relevan. Evaluasi kelayakan teks penuh terhadap 75 artikel mengeksklusi 38 studi berdasarkan kriteria eksplisit (non-calon guru SD: 18, tanpa validitas psikometri: 12, non-empiris: 8). Sintesis akhir mencakup 20 studi empiris core dan 17 studi sintesis pendukung (Total N = 37 studi).
+
+Ekstraksi Data dan Reliabilitas Penelaah:
+Ekstraksi data dilakukan secara independen oleh dua penelaah menggunakan matriks 11 kolom terstandar. Koefisien kesepakatan inter-rater dihitung menggunakan Cohen's Kappa yang menghasilkan kappa = 0.89 (High Agreement).
+
+Penilaian Kualitas dan Kepastian Bukti:
+Kualitas metodologis dan risiko bias dievaluasi menggunakan Mixed Methods Appraisal Tool (MMAT 2018) untuk studi empiris primer dan JBI Critical Appraisal Checklist untuk tinjauan scoping. Kepastian bukti dievaluasi menggunakan adaptasi kerangka GRADE.
+
+Metode Sintesis:
+Karena heterogenitas instrumen studi primer, metode sintesis menggunakan sintesis tematik naratif, analisis sensitivitas sub-kelompok (membandingkan studi performatif Rasch PCM vs survei Likert self-report), dan uji bias publikasi Egger's regression proxy.

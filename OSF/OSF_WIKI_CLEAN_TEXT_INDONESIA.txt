@@ -1,0 +1,137 @@
+DESKRIPSI WIKI OSF DAN OVERVIEW REGISTRASI PUBLIK
+
+Judul Proyek:
+Tinjauan Sistematis Kompetensi Digital Pedagogis (PDC) dan AI Literacy Calon Guru Sekolah Dasar: Memetakan Bukti, Kesenjangan Kesiapan, dan Implikasi Kurikulum
+
+DOI Registrasi OSF Resmi:
+https://doi.org/10.17605/OSF.IO/B7K64
+
+Tanggal Registrasi OSF:
+24 Maret 2026
+
+Platform Repositori:
+Open Science Framework (OSF)
+URL: https://osf.io
+
+Tipe Registrasi:
+OSF-Standard Pre-Data Collection Registration / PRISMA-P Protocol
+
+Tanggal Eksekusi Pencarian Akhir:
+15 Juni 2026 (Seluruh basis data ditelusuri secara serentak)
+
+Lisensi Sains Terbuka:
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+
+DESKRIPSI PROYEK (UNTUK KOTAK DESCRIPTION OSF):
+Proyek ini menyajikan tinjauan literatur sistematis berstandar PRISMA 2020 dan registrasi terbuka Open Science Framework (OSF) terdaftar sejak 24 Maret 2026 (DOI: https://doi.org/10.17605/OSF.IO/B7K64) mengenai Kompetensi Digital Pedagogis (PDC) dan AI Literacy calon guru Sekolah Dasar (SD). Penelusuran komprehensif dilakukan secara serentak pada empat basis data utama (Scopus, Web of Science, ERIC, dan Google Scholar) pada tanggal 15 Juni 2026 untuk publikasi 2016 hingga 2026. Mengevaluasi 37 studi inklusi (20 studi empiris core; Total N = 37) dengan reliabilitas penelaah Cohen's Kappa = 0.89 serta dinilai menggunakan instrumen MMAT 2018 dan kerangka GRADE, penelitian ini memetakan profil kompetensi, model prediktor SEM, dan ukuran efek intervensi pelatihan. Temuan mengungkapkan profil PDC calon guru berada pada kategori sedang, tetapi mengalami kesenjangan kesiapan kritis pada dimensi Asesmen Digital dan Evaluasi Halusinasi AI (68 persen calon guru gagal mendeteksi halusinasi materi RPP buatan GenAI). Secara metodologis, lebih dari 80 persen studi dunia mengandalkan kuesioner self-report Likert yang rentan bias. Proyek ini memberikan rekomendasi redesain kurikulum PGSD dan pengembangan instrumen performatif Situational Judgment Test (SJT) yang dikalibrasi dengan pemodelan Rasch Partial Credit Model (PCM).
+
+
+RINGKASAN DAN ABSTRAK PROYEK
+
+Latar Belakang:
+Akselerasi teknologi digital di pendidikan dasar menuntut calon guru Sekolah Dasar (SD) menguasai Kompetensi Digital Pedagogis (PDC) dan AI Literacy secara komprehensif. Kendati demikian, masih terjadi kesenjangan kesiapan antara regulasi kurikulum digital dan kapasitas aktual calon guru SD.
+
+Tujuan:
+Tinjauan sistematis ini bertujuan memetakan secara komprehensif bukti empiris profil PDC, mengidentifikasi faktor prediktor kesiapan, mengevaluasi efektivitas intervensi pelatihan, serta merumuskan kesenjangan bukti dan implikasi bagi pengembangan kurikulum Pendidikan Guru Sekolah Dasar (PGSD).
+
+Metode:
+Penelitian ini dilaksanakan mengikuti protokol standar PRISMA 2020 Statement dengan registrasi terbuka pada Open Science Framework (OSF). Penelusuran komprehensif dilakukan pada empat basis data utama (Scopus, Web of Science, ERIC, dan Google Scholar) untuk publikasi rentang tahun 2016 hingga 2026, dengan tanggal eksekusi pencarian terakhir pada 15 Juni 2026. Seleksi studi menggunakan kriteria PICO dan SPIDER serta penilaian kualitas metodologis dievaluasi menggunakan MMAT 2018 dan kerangka GRADE. Dari total hasil 350 rekaman, sebanyak 20 studi empiris core (dan 17 studi sintesis pendukung; total N = 37) dianalisis dengan tingkat kesepakatan penelaah Cohen's Kappa = 0.89.
+
+Temuan Utama:
+Profil PDC calon guru SD mayoritas berada pada kategori sedang. Dimensi Asesmen Digital dan Evaluasi Kritis Halusinasi AI secara konsisten teridentifikasi sebagai area dengan skor terendah (68 persen calon guru gagal mendeteksi halusinasi materi RPP buatan GenAI). Faktor prediktor utama mencakup self-efficacy TIK, sikap afektif, dan dukungan institusional LPTK (beta = 0.42 hingga 0.58, p < .001). Intervensi berbasis prompt engineering dan microteaching terbukti meningkatkan PDC secara signifikan (Cohen's d = 0.72 hingga 0.85). Kesenjangan metodologis utama yang ditemukan adalah ketergantungan mutlak (lebih dari 80 persen) pada instrumen kuesioner self-report Likert yang rentan bias.
+
+Implikasi:
+Diperlukan redesain kurikulum PGSD yang mengintegrasikan kecerdasan buatan etis, serta pengembangan instrumen penilaian performatif berbasis Situational Judgment Test (SJT) yang dikalibrasi dengan pemodelan Rasch Partial Credit Model (PCM).
+
+
+PERTANYAAN PENELITIAN (RQs)
+
+RQ1: Bagaimana tingkat dan profil Kompetensi Digital Pedagogis (PDC) dan AI Literacy calon guru SD dilaporkan dan diukur dalam literatur empiris internasional?
+
+RQ2: Faktor-faktor individu, institusional, dan kontekstual apa yang memengaruhi kesiapan PDC calon guru SD?
+
+RQ3: Bentuk intervensi atau pelatihan apa yang terbukti efektif meningkatkan PDC dan kapabilitas integrasi AI calon guru SD?
+
+RQ4: Di mana letak kesenjangan bukti utama pada literatur saat ini dan bagaimana agenda penelitian masa depan harus dirumuskan?
+
+
+LOG STRATEGI PENCARIAN BASIS DATA
+
+Tanggal Eksekusi:
+15 Juni 2026 (Pencarian serentak seluruh basis data)
+
+Basis Data yang Ditelusuri:
+1. Scopus (Elsevier) - Yield awal: 145 rekaman
+2. Web of Science Core Collection (Clarivate) - Yield awal: 110 rekaman
+3. ERIC (EBSCOhost) - Yield awal: 40 rekaman
+4. Google Scholar (Pelacakan Sitasi) - Yield awal: 55 rekaman
+
+String Pencarian Boolean:
+("pre-service teacher*" OR "student teacher*" OR "teacher candidate*" OR "preservice primary teacher*") AND ("primary school" OR "elementary school" OR "grade school" OR "PGSD") AND ("digital competence" OR "digital literacy" OR "TPACK" OR "pedagogical digital competence" OR "AI literacy" OR "generative AI") AND ("readiness" OR "preparedness" OR "self-efficacy" OR "assessment" OR "competence gap")
+
+Batasan Pencarian:
+Rentang tahun 2016 hingga 2026; Artikel jurnal peer-reviewed; Bahasa Inggris dan Bahasa Indonesia.
+
+Ringkasan Alur Seleksi:
+Rekaman Awal Ditemukan: 350
+Duplikat Dibersihkan: 110
+Rekaman Unik Diskiring: 240
+Artikel Teks Penuh Dievaluasi: 75
+Artikel Teks Penuh Dieksklusi: 38 (Non-PGSD: 18, Tanpa Validitas: 12, Non-Empiris: 8)
+Studi Empiris Core Diinklusi: 20
+Studi Sintesis Pendukung: 17
+Total Studi Konsensus Diinklusi: 37
+
+
+KRITERIA KELAYAKAN PICO DAN SPIDER
+
+Populasi (P / S):
+Mahasiswa calon guru Sekolah Dasar (PGSD / pre-service elementary teachers) di LPTK. Dieksklusi: guru dalam jabatan dan calon guru sekolah menengah.
+
+Intervensi / Fokus (I / PI):
+Pengukuran tingkat PDC, evaluasi AI literacy, penggunaan GenAI (ChatGPT/Copilot), atau intervensi pelatihan TIK/AI.
+
+Pembanding (C):
+Kelompok kontrol, baseline pra-intervensi, atau perbandingan antar-dimensi.
+
+Outcome (O / E):
+Skor PDC, tingkat kesiapan, efikasi diri, hasil evaluasi RPP, dan kualitas keputusan situasional.
+
+Desain Studi (D / R):
+Kuantitatif (survei, SEM, validasi skala), Kualitatif, Mixed-Methods, dan Kuasi-Eksperimen empiris.
+
+
+RELIABILITAS DAN AUDIT KUALITAS METODOLOGIS
+
+Reliabilitas Penelaah Independen:
+Dua penelaah independen (Reviewer 1 dan Reviewer 2) melakukan ekstraksi data secara independen. Koefisien kesepakatan Cohen's Kappa = 0.89 (High Agreement).
+
+Quality Appraisal (MMAT 2018):
+- 100 persen High Quality: 12 studi (60 persen studi core)
+- 80 persen Moderate Quality: 7 studi (35 persen studi core)
+- 60 percent Basic Quality: 1 studi (5 persen studi core)
+
+Kepastian Bukti GRADE:
+- RQ1 (Profil PDC): Kepastian Sedang (Moderate)
+- RQ2 (Prediktor SEM): Kepastian Tinggi (High)
+- RQ3 (Intervensi): Kepastian Sedang (Moderate)
+- RQ4 (Gap Metodologis): Kepastian Tinggi (High)
+
+
+DEKLARASI SAINS TERBUKA DAN PROSPERO
+
+Pernyataan Kebijakan PROSPERO:
+Registrasi PROSPERO secara ketat dibatasi untuk tinjauan sistematis bidang kesehatan dan medis. Karena penelitian ini berfokus pada pendidikan guru dan pedagogi digital, PROSPERO mengeksklusi pendaftarannya. Oleh karena itu, tinjauan ini didaftarkan secara transparan di Open Science Framework (OSF).
+
+Pernyataan Deviasi Protokol:
+Seluruh prosedur tinjauan, kriteria skrining, dan metode sintesis dilaksanakan 100 persen konsisten dengan protokol OSF ini tanpa adanya deviasi.
+
+
+DEKLARASI
+
+Pendanaan:
+Penelitian tinjauan sistematis ini dilakukan secara mandiri dan tidak menerima hibah khusus dari sektor publik, komersial, atau organisasi nirlaba.
+
+Konflik Kepentingan:
+Penulis menyatakan tidak memiliki benturan kepentingan finansial, profesional, maupun personal.

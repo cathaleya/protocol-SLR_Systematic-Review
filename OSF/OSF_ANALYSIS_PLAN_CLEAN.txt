@@ -1,0 +1,74 @@
+OSF REGISTRATION FORM - STATISTICAL & QUALITATIVE ANALYSIS PLAN FIELD (SIAP COPY-PASTE)
+
+===================================================================
+1. ENGLISH VERSION (RECOMMENDED FOR OSF FORM FIELD: ANALYSIS PLAN)
+===================================================================
+
+Analysis Plan and Data Synthesis Strategy:
+
+1. Qualitative Narrative Synthesis Framework:
+A thematic synthesis will be conducted following Thomas and Harden (2008) three-stage qualitative synthesis approach:
+- Stage 1: Line-by-line initial coding of empirical findings, participant qualitative quotes, and author interpretations from included studies.
+- Stage 2: Organization of initial codes into descriptive themes and sub-dimensions of Pedagogical Digital Competence (PDC) and AI Literacy.
+- Stage 3: Generation of analytical themes mapped onto the UNESCO AI Competency Framework for Teachers and European Digital Competence Framework for Educators (DigCompEdu).
+
+2. Quantitative Data Aggregation and Effect Size Synthesis Strategy:
+Given the anticipated methodological and conceptual heterogeneity across primary studies (varying instruments, country contexts, and sample sizes), meta-analytic pooling will be supplemented by narrative vote-counting and structural path synthesis:
+- Descriptive statistical aggregation: Frequency, percentages, and cumulative sample distribution across LPTKs and geographical regions.
+- Path coefficient synthesis: Extraction and range reporting of standardized beta coefficients, t-values, and R-squared values across Structural Equation Models (SEM) evaluating self-efficacy, technology attitudes, AI anxiety, and institutional support.
+- Subgroup comparison: Stratified comparison of competence metrics across instrument types (Self-Report Surveys vs Performative Rubrics vs Situational Judgment Tests / SJTs).
+
+3. Risk of Bias and Quality Assessment Analysis:
+All included studies will be independently appraised by two reviewers using the Mixed Methods Appraisal Tool (MMAT 2018):
+- Quantitative descriptive, quantitative non-randomized, qualitative, and mixed-methods designs will be evaluated against their respective 5 MMAT quality criteria.
+- Sensitivity Analysis: Findings will be stratified by MMAT quality scores (High Quality: 80% to 100% compliance vs Moderate Quality: 60% to 79%) to examine whether study quality impacts synthesized conclusions.
+- Inter-rater agreement will be evaluated using Cohen's Kappa coefficient (target Kappa >= 0.85).
+
+4. Evidence Certainty Assessment (GRADE Framework):
+The overall body of synthesized evidence across core research questions will be appraised using the adapted GRADE (Grading of Recommendations Assessment, Development and Evaluation) framework across five domains:
+- Risk of bias across primary studies
+- Inconsistency of results across populations
+- Indirectness of evidence to target pre-service primary teachers
+- Imprecision of quantitative measurement tools
+- Publication bias / reporting selectivity
+
+5. Analytical Tools and Reproducibility:
+- Qualitative coding and matrix cross-tabulation: NVivo / MAXQDA qualitative software.
+- Quantitative descriptive statistics and PRISMA flowchart rendering: R statistical computing environment (packages: metafor, ggplot2, PRISMA2020) and custom Python verification scripts. All scripts and extraction matrices are publicly archived on OSF.
+
+
+===================================================================
+2. INDONESIAN VERSION (VERSI BAHASA INDONESIA)
+===================================================================
+
+Rencana Analisis dan Strategi Sintesis Data:
+
+1. Kerangka Sintesis Naratif Kualitatif:
+Sintesis tematik akan dilaksanakan mengikuti pendekatan 3-tahap Thomas dan Harden (2008):
+- Tahap 1: Pengodean awal baris-demi-baris terhadap temuan empiris, kutipan kualitatif partisipan, dan interpretasi penulis dari studi terinklusi.
+- Tahap 2: Pengorganisasian kode awal menjadi tema deskriptif dan sub-dimensi Kompetensi Digital Pedagogis (PDC) serta AI Literacy.
+- Tahap 3: Pembentukan tema analitis yang dipetakan pada UNESCO AI Competency Framework for Teachers dan European Digital Competence Framework for Educators (DigCompEdu).
+
+2. Aggregasi Data Kuantitatif dan Strategi Sintesis Ukuran Efek:
+Mengingat heterogenitas metodologis dan konseptual antar-studi utama (perbedaan instrumen, konteks negara, dan ukuran sampel), penggabungan meta-analisis akan dilengkapi dengan vote-counting naratif dan sintesis koefisien jalur struktural:
+- Agregasi statistik deskriptif: Frekuensi, persentase, dan distribusi sampel kumulatif di seluruh LPTK dan wilayah geografis.
+- Sintesis koefisien jalur: Ekstraksi dan pelaporan rentang koefisien beta terstandardisasi, nilai t, dan nilai R-squared pada Model Persamaan Struktural (SEM) yang mengevaluasi self-efficacy, sikap teknologi, kecemasan AI, dan dukungan institusional.
+- Perbandingan sub-kelompok: Komparasi terstratifikasi metrik kompetensi berdasarkan jenis instrumen (Survei Self-Report vs Rubrik Performa vs Situational Judgment Test / SJT).
+
+3. Analisis Penilaian Kualitas dan Risiko Bias:
+Seluruh studi terinklusi akan dinilai secara independen oleh dua reviewer menggunakan Mixed Methods Appraisal Tool (MMAT 2018):
+- Desain kuantitatif deskriptif, kuantitatif non-acak, kualitatif, dan metode campuran akan dievaluasi terhadap 5 kriteria kualitas MMAT masing-masing.
+- Analisis Sensitivitas: Temuan akan distratifikasi berdasarkan skor kualitas MMAT (Kualitas Tinggi: kepatuhan 80% hingga 100% vs Kualitas Sedang: 60% hingga 79%) untuk menguji apakah kualitas studi mempengaruhi kesimpulan sintesis.
+- Kesepakatan antar-penilai akan dievaluasi menggunakan koefisien Cohen's Kappa (target Kappa >= 0.85).
+
+4. Penilaian Kepastian Bukti (Kerangka GRADE):
+Keseluruhan bukti hasil sintesis pada pertanyaan penelitian utama akan dinilai menggunakan kerangka GRADE (Grading of Recommendations Assessment, Development and Evaluation) yang disesuaikan pada 5 domain:
+- Risiko bias antar studi utama
+- Inkonsistensi hasil antar populasi
+- Ketidaklangsungan (indirectness) bukti terhadap calon guru SD sasaran
+- Impresisi alat ukur kuantitatif
+- Bias publikasi / selektivitas pelaporan
+
+5. Alat Analisis dan Reproduosibilitas:
+- Pengodean kualitatif dan tabulasi silang matriks: Perangkat lunak kualitatif NVivo / MAXQDA.
+- Statistik deskriptif kuantitatif dan visualisasi flowchart PRISMA: Lingkungan komputasi statistik R (paket: metafor, ggplot2, PRISMA2020) dan skrip verifikasi Python. Seluruh skrip dan matriks ekstraksi diarsip secara publik di OSF.

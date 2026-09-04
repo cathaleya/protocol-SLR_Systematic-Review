@@ -1,0 +1,32 @@
+OSF REGISTRATION FORM - STOPPING RULES FIELD (SIAP COPY-PASTE)
+
+===================================================================
+1. ENGLISH VERSION (RECOMMENDED FOR OSF FORM FIELD: STOPPING RULES)
+===================================================================
+
+Stopping Rules:
+Data collection and database retrieval officially stopped on 15 June 2026 (Last Search Execution Date). No new studies published or indexed after 15 June 2026 were added to the systematic review dataset.
+
+Starting Rules and Search Execution:
+Literature retrieval commenced with systematic electronic database searching across four primary databases (Scopus, Web of Science Core Collection, ERIC, and Google Scholar) for peer-reviewed journal articles published between January 2016 and June 2026.
+
+Data Collection Termination Criteria:
+1. Time-Based Termination: Database searching concluded on 15 June 2026.
+2. Exhaustive Yield Completion: Data collection terminated after completing the full PRISMA 2020 four-stage screening process (Identification, Screening, Eligibility Assessment, and Inclusion) on all 350 initially retrieved records.
+3. Consensus Finalisation: Study inclusion officially terminated once two independent reviewers reached complete consensus (inter-rater agreement kappa = 0.89), yielding the final set of 20 core empirical studies and 17 supporting synthesis studies (Total N = 37 studies).
+
+
+===================================================================
+2. INDONESIAN VERSION (VERSI BAHASA INDONESIA)
+===================================================================
+
+Aturan Penghentian (Stopping Rules):
+Pengumpulan data dan penelusuran basis data secara resmi dihentikan pada tanggal 15 Juni 2026 (Tanggal Eksekusi Pencarian Akhir). Tidak ada studi baru yang diterbitkan atau diindeks setelah 15 Juni 2026 yang ditambahkan ke dalam dataset tinjauan sistematis.
+
+Aturan Memulai dan Eksekusi Pencarian:
+Penelusuran literatur dimulai dengan pencarian basis data elektronik secara sistematis pada empat basis data utama (Scopus, Web of Science Core Collection, ERIC, dan Google Scholar) untuk artikel jurnal peer-reviewed yang diterbitkan antara Januari 2016 hingga Juni 2026.
+
+Kriteria Penghentian Pengumpulan Data:
+1. Penghentian Berbasis Waktu: Pencarian basis data ditutup secara serentak pada 15 Juni 2026.
+2. Pelaksanaan Skrining Lengkap: Pengumpulan data selesai setelah menyelesaikan seluruh alur empat tahap PRISMA 2020 (Identifikasi, Skrining, Evaluasi Kelayakan, dan Inklusi) terhadap 350 rekaman awal yang ditemukan.
+3. Finalisasi Konsensus Penelaah: Inklusi studi resmi dihentikan setelah dua penelaah independen mencapai konsensus penuh (reliabilitas inter-rater kappa = 0.89), menghasilkan set akhir 20 studi empiris core dan 17 studi sintesis pendukung (Total N = 37 studi).

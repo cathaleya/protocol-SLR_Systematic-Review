@@ -1,0 +1,64 @@
+OSF REGISTRATION FORM - INFERENCE CRITERIA FIELD (SIAP COPY-PASTE)
+
+===================================================================
+1. ENGLISH VERSION (RECOMMENDED FOR OSF FORM FIELD: INFERENCE CRITERIA)
+===================================================================
+
+Statistical, Qualitative, and Synthesis Inference Criteria:
+
+1. Statistical Hypothesis Testing Thresholds:
+- Alpha level: Statistical significance is set at p < .05 (two-tailed) for all statistical inferential tests, regression paths, ANOVA, and Structural Equation Modeling (SEM) parameters.
+- Confidence Intervals: 95% Confidence Intervals (95% CI) will be extracted and reported for all standardized path coefficients, effect sizes, and mean competency metrics.
+
+2. Structural Model Fit Benchmarks:
+Model fit evaluations across SEM and confirmatory factor analysis (CFA) models in included studies will be inferred using standard psychometric cut-offs:
+- Comparative Fit Index (CFI) >= 0.90 for acceptable fit, >= 0.95 for good fit.
+- Tucker-Lewis Index (TLI) >= 0.90 for acceptable fit, >= 0.95 for good fit.
+- Root Mean Square Error of Approximation (RMSEA) <= 0.08 for acceptable fit, <= 0.05 for good fit.
+- Standardized Root Mean Square Residual (SRMR) <= 0.08.
+- Chi-Square to Degrees of Freedom Ratio (Chi-Square/df) <= 3.0.
+
+3. Educational Effect Size Interpretation Standards:
+Effect sizes and variance explained across synthesized quantitative models will be interpreted using educational technology benchmarks:
+- Standardized Regression Coefficients (Beta): Small effect (Beta = 0.10 to 0.29), Moderate effect (Beta = 0.30 to 0.49), Large effect (Beta >= 0.50).
+- Variance Explained (R-squared): R-squared >= 0.26 is inferred as substantial predictive power in pre-service teacher technology adoption models.
+
+4. Qualitative Theme Inference and Saturation Criteria:
+- Qualitative themes and sub-dimensions of Pedagogical Digital Competence (PDC) and AI Literacy are inferred as valid when supported by empirical evidence across a minimum of 3 independent primary study cohorts (N >= 3 studies).
+- Analytical themes must demonstrate cross-study triangulation across diverse qualitative data sources (interviews, lesson plans, reflective logs, observational rubrics).
+
+5. Methodological Quality and Consensus Criteria:
+- Inter-Rater Reliability: Screening, data extraction, and MMAT quality appraisal decisions require an inter-rater agreement threshold of Cohen's Kappa >= 0.85 between independent reviewers.
+- GRADE Evidence Certainty: Synthesis conclusions are inferred as robust if rated as High or Moderate certainty under the GRADE framework.
+
+
+===================================================================
+2. INDONESIAN VERSION (VERSI BAHASA INDONESIA)
+===================================================================
+
+Kriteria Inferensi Statistik, Kualitatif, dan Sintesis:
+
+1. Ambang Batas Pengujian Hipotesis Statistik:
+- Tingkat Alpha: Signifikansi statistik ditetapkan pada p < .05 (two-tailed) untuk seluruh uji inferensial statistik, jalur regresi, ANOVA, dan parameter Model Persamaan Struktural (SEM).
+- Interval Kepercayaan: 95% Confidence Intervals (95% CI) akan diekstraksi dan dilaporkan untuk seluruh koefisien jalur terstandardisasi, ukuran efek, dan metrik rata-rata kompetensi.
+
+2. Tolok Ukur Kelayakan Model Struktural (Model Fit):
+Evaluasi kelayakan model pada model SEM dan analisis faktor konfirmatori (CFA) dalam studi terinklusi diinferensikan menggunakan batas psikometri standar:
+- Comparative Fit Index (CFI) >= 0.90 untuk fit layak, >= 0.95 untuk fit baik.
+- Tucker-Lewis Index (TLI) >= 0.90 untuk fit layak, >= 0.95 untuk fit baik.
+- Root Mean Square Error of Approximation (RMSEA) <= 0.08 untuk fit layak, <= 0.05 untuk fit baik.
+- Standardized Root Mean Square Residual (SRMR) <= 0.08.
+- Rasio Chi-Square terhadap Degrees of Freedom (Chi-Square/df) <= 3.0.
+
+3. Standar Interpretasi Ukuran Efek Pendidikan:
+Ukuran efek dan variansi terjelaskan pada model kuantitatif ter-sintesis diinterpretasikan menggunakan tolok ukur teknologi pendidikan:
+- Koefisien Regresi Terstandardisasi (Beta): Efek kecil (Beta = 0.10 hingga 0.29), Efek sedang (Beta = 0.30 hingga 0.49), Efek besar (Beta >= 0.50).
+- Variansi Terjelaskan (R-squared): Nilai R-squared >= 0.26 diinferensikan memiliki daya prediktif substansial pada model adopsi teknologi calon guru.
+
+4. Kriteria Inferensi Tema Kualitatif dan Kejenuhan (Saturation):
+- Tema kualitatif dan sub-dimensi Kompetensi Digital Pedagogis (PDC) serta AI Literacy diinferensikan valid jika didukung bukti empiris sekurang-kurangnya dari 3 kohort studi utama yang independen (N >= 3 studi).
+- Tema analitis harus menunjukkan triangulasi lintas-studi dari beragam sumber data kualitatif (wawancara, RPP/lesson plan, jurnal reflektif, rubrik observasi).
+
+5. Kriteria Kualitas Metodologis dan Konsensus Reviewer:
+- Reliabilitas Antar-Penilai: Keputusan penapisan, ekstraksi data, dan penilaian kualitas MMAT membutuhkan ambang batas kesepakatan Cohen's Kappa >= 0.85 antar reviewer independen.
+- Kepastian Bukti GRADE: Kesimpulan sintesis diinferensikan kuat jika dinilai berkategori kepastian High atau Moderate dalam kerangka GRADE.

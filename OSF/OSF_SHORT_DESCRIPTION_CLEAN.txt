@@ -1,0 +1,21 @@
+OSF SHORT PROJECT DESCRIPTION (SIAP COPY-PASTE UNTUK KOTAK DESCRIPTION OSF)
+
+===================================================================
+1. ENGLISH VERSION (RECOMMENDED FOR OSF DESCRIPTION FIELD)
+===================================================================
+
+Pedagogical Digital Competence and AI Literacy of Pre-Service Primary Teachers
+
+Official OSF Registration DOI: https://doi.org/10.17605/OSF.IO/B7K64
+Registration Date: 24 March 2026
+
+Description:
+This project presents an open science systematic literature review protocol and synthesis examining Pedagogical Digital Competence (PDC) and AI Literacy among pre-service primary teachers. Conducted according to the PRISMA 2020 Statement and registered on the Open Science Framework (OSF) on 24 March 2026 (DOI: https://doi.org/10.17605/OSF.IO/B7K64), a comprehensive search across four major databases (Scopus, Web of Science, ERIC, and Google Scholar) was executed on 15 June 2026 for publications spanning 2016 to 2026. Evaluating 37 included studies (20 core empirical studies; N = 37 total) with an inter-rater agreement of Cohen's Kappa = 0.89 and appraised via MMAT 2018 and GRADE frameworks, the review maps candidate competence profiles, structural equation predictor models, and training intervention effect sizes. Findings reveal intermediate overall PDC but a severe readiness gap in Digital Assessment and Critical AI Evaluation (68 percent of candidates fail to detect AI content hallucinations). Methodologically, over 80 percent of global studies rely on self-report Likert scales prone to inflation bias. To address this, the project provides a blueprint for initial teacher education curriculum redesign and situational judgment e-assessments calibrated via Rasch Partial Credit Modelling.
+
+
+===================================================================
+2. INDONESIAN VERSION (VERSI BAHASA INDONESIA)
+===================================================================
+
+Deskripsi Proyek:
+Proyek ini menyajikan tinjauan literatur sistematis berstandar PRISMA 2020 dan registrasi terbuka Open Science Framework (OSF) terdaftar sejak 24 Maret 2026 (DOI: https://doi.org/10.17605/OSF.IO/B7K64) mengenai Kompetensi Digital Pedagogis (PDC) dan AI Literacy calon guru Sekolah Dasar (SD). Penelusuran komprehensif dilakukan secara serentak pada empat basis data utama (Scopus, Web of Science, ERIC, dan Google Scholar) pada tanggal 15 Juni 2026 untuk publikasi 2016 hingga 2026. Mengevaluasi 37 studi inklusi (20 studi empiris core; Total N = 37) dengan reliabilitas penelaah Cohen's Kappa = 0.89 serta dinilai menggunakan instrumen MMAT 2018 dan kerangka GRADE, penelitian ini memetakan profil kompetensi, model prediktor SEM, dan ukuran efek intervensi pelatihan. Temuan mengungkapkan profil PDC calon guru berada pada kategori sedang, tetapi mengalami kesenjangan kesiapan kritis pada dimensi Asesmen Digital dan Evaluasi Halusinasi AI (68 persen calon guru gagal mendeteksi halusinasi materi RPP buatan GenAI). Secara metodologis, lebih dari 80 persen studi dunia mengandalkan kuesioner self-report Likert yang rentan bias. Proyek ini memberikan rekomendasi redesain kurikulum PGSD dan pengembangan instrumen performatif Situational Judgment Test (SJT) yang dikalibrasi dengan pemodelan Rasch Partial Credit Model (PCM).

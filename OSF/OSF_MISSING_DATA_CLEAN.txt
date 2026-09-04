@@ -1,0 +1,50 @@
+OSF REGISTRATION FORM - MISSING DATA FIELD (SIAP COPY-PASTE)
+
+===================================================================
+1. ENGLISH VERSION (RECOMMENDED FOR OSF FORM FIELD: MISSING DATA)
+===================================================================
+
+Protocol for Handling Missing Data:
+
+1. Types of Missing Data Addressed:
+- Study-Level Missing Data: Inaccessible full-text articles after database screening.
+- Metric-Level Missing Data: Unreported standard deviations (SD), missing sample sizes per subgroup, incomplete correlation matrices, or unreported path coefficients in structural equation models.
+
+2. Author Contact Protocol:
+- For primary studies meeting eligibility criteria but missing key statistical metrics or full texts, corresponding authors will be contacted via email.
+- A standardized request email will be sent with a reminder follow-up after 7 days. Authors are given a total response window of 14 calendar days.
+- If no response is received within 14 days, the study will be analyzed based solely on available reported data, and the limitation will be documented.
+
+3. Imputation and Conversion Rules:
+- Zero Fictitious Imputation Rule: Imputation of fictitious values (e.g., mean imputation or multiple imputation) will strictly NOT be used for missing primary outcome metrics, preserving empirical integrity.
+- Algebraic Statistical Derivation: Where standard deviations (SD) are missing but standard errors (SE), 95% confidence intervals (CI), or exact t-statistics/p-values are reported, SDs will be calculated algebraically using Cochrane Handbook transformation formulas.
+- Estimating Means and SDs from Medians: If medians and interquartile ranges (IQR) are reported, means and SDs will be estimated using Wan et al. (2014) transformation algorithms.
+
+4. Qualitative Integration and Sensitivity Analysis:
+- Studies with incomplete quantitative statistics that cannot be mathematically derived will be retained for narrative qualitative synthesis and thematic mapping rather than excluded entirely.
+- Sensitivity Analysis: All primary synthesis findings will be subjected to a sensitivity check by comparing overall conclusions including vs excluding studies with converted or partially missing data to ensure synthesis robustness.
+
+
+===================================================================
+2. INDONESIAN VERSION (VERSI BAHASA INDONESIA)
+===================================================================
+
+Protokol Penanganan Data Hilang (Missing Data):
+
+1. Jenis Data Hilang yang Ditangani:
+- Data Hilang Tingkat Studi: Teks lengkap artikel yang tidak dapat diakses setelah penapisan basis data.
+- Data Hilang Tingkat Metrik: Standar deviasi (SD) yang tidak dilaporkan, ukuran sampel per sub-kelompok yang hilang, matriks korelasi tidak lengkap, atau koefisien jalur yang tidak dilaporkan pada model persamaan struktural.
+
+2. Protokol Kontak Penulis (Author Contact):
+- Untuk studi utama yang memenuhi kriteria kelayakan tetapi kehilangan metrik statistik kunci atau teks lengkap, penulis korespondensi akan dihubungi melalui email.
+- Email permintaan terstandardisasi akan dikirimkan dengan email pengingat (follow-up) setelah 7 hari. Penulis diberikan tenggat waktu tanggapan total 14 hari kalender.
+- Jika tidak ada tanggapan dalam 14 hari, studi akan dianalisis hanya berdasarkan data yang dilaporkan yang tersedia, dan keterbatasan tersebut akan didokumentasikan.
+
+3. Aturan Imputasi dan Konversi:
+- Aturan Tanpa Imputasi Fiktif: Imputasi nilai fiktif (seperti mean imputation atau multiple imputation) secara tegas TIDAK akan digunakan untuk metrik outcome utama yang hilang, guna menjaga integritas empiris.
+- Penurunan Statistik Aljabar: Jika standar deviasi (SD) hilang tetapi standar error (SE), 95% confidence interval (CI), atau nilai t/p yang tepat dilaporkan, SD akan dihitung secara aljabar menggunakan formula transformasi Cochrane Handbook.
+- Estimasi Mean dan SD dari Median: Jika median dan interquartile range (IQR) dilaporkan, mean dan SD akan diestimasi menggunakan algoritma transformasi Wan et al. (2014).
+
+4. Integrasi Kualitatif dan Analisis Sensitivitas:
+- Studi dengan statistik kuantitatif tidak lengkap yang tidak dapat diturunkan secara matematis akan tetap dipertahankan untuk sintesis kualitatif naratif dan pemetaan tematik, bukan dibuang sepenuhnya.
+- Analisis Sensitivitas: Seluruh temuan sintesis utama akan diuji sensitivitasnya dengan membandingkan kesimpulan keseluruhan antara menyertakan vs mengeksklusi studi dengan data yang dikonversi atau parsial hilang untuk memastikan ketahanan sintesis.

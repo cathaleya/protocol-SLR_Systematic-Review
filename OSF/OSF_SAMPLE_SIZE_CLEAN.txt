@@ -1,0 +1,46 @@
+OSF REGISTRATION FORM - SAMPLE SIZE FIELD (SIAP COPY-PASTE)
+
+===================================================================
+1. ENGLISH VERSION (RECOMMENDED FOR OSF FORM FIELD: SAMPLE SIZE)
+===================================================================
+
+Sample Size:
+37 Studies Total (20 Core Empirical Studies + 17 Supporting Synthesis Studies)
+
+Total Cumulative Primary Participants:
+6,831 Pre-Service Primary Teacher Candidates across core empirical primary studies (individual study samples range from N = 35 to N = 537 participants).
+
+Sample Size Rationale:
+In accordance with PRISMA 2020 systematic literature review standards, sample size is determined by the exhaustive retrieval of all eligible empirical studies identified through a comprehensive four-database search (Scopus, Web of Science, ERIC, and Google Scholar) executed on 15 June 2026. 
+
+Yield Breakdown:
+- Initial Records Identified: 350 records (Scopus: 145, WoS: 110, ERIC: 40, Google Scholar: 55)
+- Duplicates Removed: 110 records
+- Screened Records (Title/Abstract): 240 records
+- Excluded Records: 165 records
+- Full-Text Eligible Articles Assessed: 75 records
+- Excluded Full-Text Articles: 38 records (Non-primary PST population: 18, Lacking psychometric validity: 12, Non-empirical: 8)
+- Final Included Sample Size: 20 Core Empirical Studies + 17 Supporting Synthesis Studies (Total N = 37 studies)
+
+
+===================================================================
+2. INDONESIAN VERSION (VERSI BAHASA INDONESIA)
+===================================================================
+
+Ukuran Sampel:
+Total 37 Studi (20 Studi Empiris Core + 17 Studi Sintesis Pendukung)
+
+Total Kumulatif Partisipan Primer:
+6.831 Mahasiswa Calon Guru Sekolah Dasar lintas studi empiris core (sampel studi individual berkisar dari N = 35 hingga N = 537 partisipan).
+
+Rasional Ukuran Sampel:
+Sesuai dengan standar tinjauan literatur sistematis PRISMA 2020, ukuran sampel ditentukan oleh penelusuran komprehensif seluruh studi empiris yang memenuhi kriteria kelayakan dari empat basis data utama (Scopus, Web of Science, ERIC, dan Google Scholar) yang dieksekusi pada 15 Juni 2026.
+
+Rincian Alur Sampel:
+- Rekaman Awal Ditemukan: 350 rekaman (Scopus: 145, WoS: 110, ERIC: 40, Google Scholar: 55)
+- Duplikat Dibersihkan: 110 rekaman
+- Rekaman Skrining Judul/Abstrak: 240 rekaman
+- Rekaman Dieksklusi: 165 rekaman
+- Artikel Teks Penuh Dievaluasi: 75 rekaman
+- Artikel Teks Penuh Dieksklusi: 38 rekaman (Non-calon guru SD: 18, Tanpa validitas psikometri: 12, Non-empiris: 8)
+- Ukuran Sampel Inklusi Akhir: 20 Studi Empiris Core + 17 Studi Sintesis Pendukung (Total N = 37 studi)

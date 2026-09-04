@@ -1,0 +1,166 @@
+OSF PROJECT WIKI DESCRIPTION AND PUBLIC REGISTRATION OVERVIEW
+
+Project Title:
+Pedagogical Digital Competence and AI Literacy of Pre-Service Primary Teachers
+
+Official OSF Registration DOI:
+https://doi.org/10.17605/OSF.IO/B7K64
+
+Registration Date:
+24 March 2026
+
+Repository Platform:
+Open Science Framework (OSF)
+URL: https://osf.io
+
+Registration Type:
+OSF-Standard Pre-Data Collection Registration / PRISMA-P Protocol
+
+Last Search Execution Date:
+15 June 2026 (All databases searched simultaneously)
+
+License:
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+
+PROJECT DESCRIPTION (FOR OSF SHORT DESCRIPTION FIELD):
+This project presents an open science systematic literature review protocol and synthesis examining Pedagogical Digital Competence (PDC) and AI Literacy among pre-service primary teachers. Conducted according to the PRISMA 2020 Statement and registered on the Open Science Framework (OSF) on 24 March 2026 (DOI: https://doi.org/10.17605/OSF.IO/B7K64), a comprehensive search across four major databases (Scopus, Web of Science, ERIC, and Google Scholar) was executed on 15 June 2026 for publications spanning 2016 to 2026. Evaluating 37 included studies (20 core empirical studies; N = 37 total) with an inter-rater agreement of Cohen's Kappa = 0.89 and appraised via MMAT 2018 and GRADE frameworks, the review maps candidate competence profiles, structural equation predictor models, and training intervention effect sizes. Findings reveal intermediate overall PDC but a severe readiness gap in Digital Assessment and Critical AI Evaluation (68 percent of candidates fail to detect AI content hallucinations). Methodologically, over 80 percent of global studies rely on self-report Likert scales prone to inflation bias. To address this, the project provides a blueprint for initial teacher education curriculum redesign and situational judgment e-assessments calibrated via Rasch Partial Credit Modelling.
+
+
+PROJECT ABSTRACT AND OVERVIEW
+
+Background:
+Rapid technological acceleration in primary education requires pre-service primary teachers to possess robust Pedagogical Digital Competence (PDC) and Artificial Intelligence (AI) Literacy beyond basic operational information and communication technology (ICT) skills. However, a pronounced readiness gap persists between digital curriculum policy expectations and empirical teacher candidate capability.
+
+Objectives:
+This systematic literature review synthesises empirical evidence regarding pre-service primary teachers' PDC profiles, identifies predictor factors influencing readiness, evaluates training intervention efficacy, and articulates methodological evidence gaps to inform teacher education curriculum redesign.
+
+Methods:
+Conducted according to the PRISMA 2020 Statement and registered on the Open Science Framework (OSF), a comprehensive search across four major databases (Scopus, Web of Science, ERIC, and Google Scholar) was executed on 15 June 2026 for publications spanning 2016 to 2026. Studies were selected via PICO and SPIDER criteria and appraised using the Mixed Methods Appraisal Tool (MMAT 2018) and an adapted GRADE framework. From an initial yield of 350 records, 20 core empirical studies (and 17 supporting synthesis studies; total N = 37) were synthesised with an inter-rater agreement of Cohen's Kappa = 0.89.
+
+Key Findings:
+Pre-service primary teachers exhibit intermediate overall PDC. Digital Assessment and AI Ethics and Hallucination Checking are consistently the weakest competence dimensions (68 percent of candidates fail to detect hallucinated content in AI-generated lesson plans). Key predictors include ICT self-efficacy, positive affective attitudes, and institutional LPTK support (beta = 0.42 to 0.58, p < .001). Interventions incorporating prompt engineering and microteaching significantly improve PDC (Cohen's d = 0.72 to 0.85). Methodologically, over 80 percent of studies rely on self-report Likert scales prone to inflation bias.
+
+Implications:
+Initial teacher education must transition towards performative e-assessments using Situational Judgment Tests (SJTs) calibrated with Rasch Partial Credit Modelling (PCM) and embed ethical AI evaluation into primary teacher training.
+
+
+RESEARCH QUESTIONS (RQs)
+
+RQ1: How are the levels and profiles of Pedagogical Digital Competence (PDC) and AI Literacy among pre-service primary teachers reported and measured in international empirical literature?
+
+RQ2: What individual, institutional, and contextual factors influence the digital readiness of pre-service primary teachers?
+
+RQ3: Which training interventions and instructional models effectively enhance PDC and AI integration capabilities among pre-service primary teachers?
+
+RQ4: What primary methodological evidence gaps exist in current literature, and how should future research agendas be structured?
+
+
+DATABASE SEARCH STRATEGY AND EXECUTION LOG
+
+Execution Date:
+15 June 2026 (All databases searched concurrently)
+
+Databases Searched:
+1. Scopus (Elsevier) - Initial yield: 145 records
+2. Web of Science Core Collection (Clarivate) - Initial yield: 110 records
+3. ERIC (EBSCOhost) - Initial yield: 40 records
+4. Google Scholar (Citation Tracking) - Initial yield: 55 records
+
+Boolean Search Query Used:
+("pre-service teacher*" OR "student teacher*" OR "teacher candidate*" OR "preservice primary teacher*") AND ("primary school" OR "elementary school" OR "grade school" OR "PGSD") AND ("digital competence" OR "digital literacy" OR "TPACK" OR "pedagogical digital competence" OR "AI literacy" OR "generative AI") AND ("readiness" OR "preparedness" OR "self-efficacy" OR "assessment" OR "competence gap")
+
+Limitation Criteria:
+Publication window 2016 to 2026; Peer-reviewed journal articles; English and Indonesian languages.
+
+Yield Flow Summary:
+Initial Records Identified: 350
+Duplicates Removed: 110
+Unique Records Screened: 240
+Full-Text Articles Assessed: 75
+Full-Text Articles Excluded: 38 (Non-primary population: 18, Lacking validity: 12, Non-empirical: 8)
+Core Empirical Studies Included: 20
+Supporting Synthesis Studies: 17
+Total Consensus Included Studies: 37
+
+
+PICO AND SPIDER ELIGIBILITY CRITERIA
+
+Population (P / S):
+Pre-service primary/elementary school teachers enrolled in Initial Teacher Education (ITE/LPTK) programmes. Excludes in-service teachers and secondary education candidates.
+
+Intervention / Phenomenon (I / PI):
+Measurement of PDC profiles, AI literacy evaluation, GenAI usage (ChatGPT/Copilot), or ICT/AI training interventions.
+
+Comparison (C):
+Control groups, baseline pre-intervention scores, or cross-dimension comparisons.
+
+Outcome (O / E):
+PDC scores, readiness levels, self-efficacy, lesson plan rubrics, and situational decision quality.
+
+Study Design (D / R):
+Quantitative (surveys, SEM, scale validation), Qualitative, Mixed-Methods, and Quasi-Experimental empirical studies. Excludes opinion pieces, editorials, and non-empirical monographs.
+
+
+METHODOLOGICAL QUALITY AND INTER-RATER RELIABILITY
+
+Inter-Rater Reliability:
+Data extraction and screening were conducted independently by two reviewers. The inter-rater agreement calculated via Cohen's Kappa yielded kappa = 0.89 (High Agreement).
+
+Quality Appraisal (MMAT 2018):
+Core empirical studies were appraised using the Mixed Methods Appraisal Tool (MMAT 2018):
+- 100 percent High Quality: 12 studies (60 percent of core studies)
+- 80 percent Moderate Quality: 7 studies (35 percent of core studies)
+- 60 percent Basic Quality: 1 study (5 percent of core studies)
+
+GRADE Certainty Evaluation:
+- RQ1 (PDC Profile): Moderate Certainty
+- RQ2 (Predictor SEM): High Certainty
+- RQ3 (Interventions): Moderate Certainty
+- RQ4 (Evidence Gaps): High Certainty
+
+
+OPEN SCIENCE AND NON-PROSPERO DECLARATION
+
+PROSPERO Policy Statement:
+PROSPERO registration is strictly restricted to health, clinical, and social care systematic reviews. As this study investigates teacher education, pedagogical digital competence, and educational technology, PROSPERO does not accept registration. Therefore, this review is registered openly and transparently on the Open Science Framework (OSF).
+
+Protocol Deviation Statement:
+All review procedures, screening criteria, and synthesis methods were executed in complete alignment with this OSF protocol. No protocol deviations occurred.
+
+
+FILES DIRECTORY IN OSF STORAGE
+
+The following structured documentation files are available in this OSF project repository:
+
+1. 01_PRISMA_2020_SLR_Protocol.md - Official OSF Registration Protocol
+2. 02_Search_Strategy_and_Database_Queries.md - Detailed Boolean Query Strings and Database Execution Logs
+3. 03_PICO_SPIDER_Eligibility_Criteria_Matrix.md - Structured Eligibility Criteria Matrix
+4. 04_Data_Extraction_Matrix_Master.md - Master Extraction Spreadsheet of Included Studies
+5. 05_PRISMA_2020_Checklist_Completed.md - Completed 46-Item PRISMA 2020 Reporting Checklist
+6. 06_Quality_Appraisal_MMAT_2018_and_GRADE.md - MMAT 2018 Risk of Bias Scores and GRADE Certainty Assessment
+7. OSF_UPLOAD_INDEX_AND_GUIDE.md - Step-by-Step OSF Upload Guide
+
+Dataset Excel Files:
+- 02_screening_titles_abstracts.xlsx
+- 03_fulltext_eligibility.xlsx
+- 04_data_extraction.xlsx
+- 05_mmat_2018_quality_appraisal.xlsx
+- 06_jbi_critical_appraisal.xlsx
+- 07_consensus_reconciliation_reviewer1_reviewer2.xlsx
+
+Statistical R Scripts:
+- 01_packages_and_import.R
+- 02_quality_assessment.R
+- 03_risk_of_bias.R
+- 04_descriptive_analysis.R
+- 05_instrument_analysis.R
+
+
+DECLARATIONS
+
+Funding:
+This systematic review was conducted independently and received no specific grant from public, commercial, or non-profit funding agencies.
+
+Conflict of Interest:
+The authors declare no financial, professional, or personal conflicts of interest.

@@ -1,0 +1,74 @@
+OSF REGISTRATION FORM - MEASURED VARIABLES FIELD (SIAP COPY-PASTE)
+
+===================================================================
+1. ENGLISH VERSION (RECOMMENDED FOR OSF FORM FIELD: MEASURED VARIABLES)
+===================================================================
+
+Measured Variables and Outcome Constructs:
+
+1. Primary Target Construct:
+Pedagogical Digital Competence (PDC) and AI Literacy of Pre-Service Primary Teachers.
+
+Sub-Dimensions of PDC Evaluated:
+- Digital Pedagogy and Primary Subject Technology Integration
+- Child Data Ethics and Privacy Protection in Primary Classrooms
+- Critical AI Output Evaluation and Hallucination Detection
+- Digital Assessment Capability (Designing digital tasks and feedback)
+- Responsible Situational Decision Quality
+
+2. AI Literacy Dimensions Evaluated:
+- Technical Understanding of Generative AI (LLMs, ChatGPT, Copilot)
+- Prompt Engineering Competence
+- AI Output Verification and Fact-Checking
+- Ethical and Data Privacy Awareness
+
+3. Predictor and Structural Equation Variables (SEM Models):
+- ICT and AI Self-Efficacy (Beta = 0.46 to 0.54, p < .001)
+- Affective Attitudes Towards Technology Integration (Beta = 0.51, p < .001)
+- AI Anxiety (Beta = -0.38, p < .001)
+- Institutional LPTK Support and ICT Coursework Integration (R-squared = 0.45)
+- Primary School Infrastructure Availability during Practicums (Moderating variable)
+
+4. Methodological and Psychometric Evaluation Variables:
+- Instrument Format Type (Self-Report Likert Surveys vs Performative Rubrics vs Situational Judgment Tests)
+- Psychometric Reliability (Cronbach's Alpha, Composite Reliability, Rasch Infit/Outfit metrics)
+- Factorial Validity Indices (CFI, TLI, RMSEA, SRMR)
+- Methodological Quality / Risk of Bias Scores (MMAT 2018 percentage compliance)
+- GRADE Evidence Certainty Levels (High, Moderate)
+
+
+===================================================================
+2. INDONESIAN VERSION (VERSI BAHASA INDONESIA)
+===================================================================
+
+Variabel Terukur dan Konstruk Outcome:
+
+1. Konstruk Utama Terukur:
+Kompetensi Digital Pedagogis (PDC) dan AI Literacy Calon Guru Sekolah Dasar (PGSD).
+
+Sub-Dimensi PDC yang Dievaluasi:
+- Pedagogi Digital dan Integrasi Teknologi Pembelajaran Tematik SD
+- Etika Data Anak dan Perlindungan Privasi Murid SD
+- Evaluasi Kritis Output AI dan Pendeteksian Halusinasi
+- Kapabilitas Asesmen Digital (Merancang tugas digital dan umpan balik)
+- Kualitas Keputusan Situasional Bertanggung Jawab
+
+2. Dimensi AI Literacy yang Dievaluasi:
+- Pemahaman Teknis Generative AI (LLM, ChatGPT, Copilot)
+- Kompetensi Prompt Engineering
+- Verifikasi dan Fact-Checking Output AI
+- Kesadaran Etika dan Privasi Data
+
+3. Variabel Prediktor dan Model Persamaan Struktural (SEM):
+- Self-Efficacy TIK dan AI (Beta = 0.42 hingga 0.58, p < .001)
+- Sikap Afektif terhadap Integrasi Teknologi (Beta = 0.51, p < .001)
+- Kecemasan AI / AI Anxiety (Beta = -0.38, p < .001)
+- Dukungan Institusional LPTK dan Mata Kuliah TIK (R-squared = 0.45)
+- Dukungan Infrastruktur Sekolah Dasar Tempat Praktik (Variabel Moderasi)
+
+4. Variabel Evaluasi Metodologis dan Psikometri:
+- Jenis Format Instrumen (Survei Likert Self-Report vs Rubrik Performa vs Situational Judgment Test)
+- Reliabilitas Psikometri (Cronbach's Alpha, Composite Reliability, Rasch Infit/Outfit)
+- Indeks Validitas Faktor (CFI, TLI, RMSEA, SRMR)
+- Skor Kualitas Metodologis / Risiko Bias (Persentase Kepatuhan MMAT 2018)
+- Tingkat Kepastian Bukti GRADE (Tinggi, Sedang)
